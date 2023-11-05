@@ -1,0 +1,28 @@
+﻿<Page x:Class="PassKeeper_WPF.Views.Pages.RegsiterPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+xmlns:local="clr-namespace:PassKeeper_WPF.Views.Pages"
+xmlns:md ="http://materialdesigninxaml.net/winfx/xaml/themes"
+mc:Ignorable="d" 
+d:DesignHeight="700" d:DesignWidth="375"
+Title="PassKeeper">
+
+    <Grid>
+
+      
+
+        <StackPanel >
+
+            <Image Width="212" Height="60"    HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0 100"  Source="\Resources\Images\passkeeper main logo.png"/>
+            <TextBox Text="{Binding NewUser.FirstName}" FontSize="32" Foreground="DimGray" Padding="9 3 0 0"   Name="FirstNameTextBox" Background="White" Width="260" Height="60"/>
+            <TextBox Text="{Binding NewUser.LastName}" FontSize="32" Foreground="DimGray" Padding="9 3 0 0" Margin="0 15 0 0"  Name="LastNameTextBox" Background="White" Width="260" Height="60"/>
+            <TextBox Text="{Binding NewUser.Email}" FontSize="32" Foreground="DimGray" Padding="9 3 0 0"  Margin="0 15 0 0"  Name="EmailTextBox" Background="White" Width="260" Height="60"/>
+            <Button Click="NextBtn_Click" Name="NextBtn" Margin="0 25" Content="Next" Background="#FF244293" Width="261" Height="45" FontSize="18"  FontFamily="Josefin Sans"/>
+        </StackPanel>
+
+
+
+     </Grid>
+</Page>

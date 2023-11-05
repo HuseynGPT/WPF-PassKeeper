@@ -1,0 +1,31 @@
+[
+  {
+    "FirstName": "Huseyn",
+    "LastName": "Huseynov",
+    "Email": "hhuseynv2007@gmail.com",
+    "Password": "123",
+    "ImagePath": "\\Resources\\Images\\DEFAULT USER PNG.png",
+    "Accounts": []
+  },
+  {
+    "FirstName": "salmaasd",
+    "LastName": "sagolasd",
+    "Email": "email1asdasd",
+    "Password": "123asdasd",
+    "ImagePath": "C:\\Users\\Administrator\\Downloads\\513506.jpg",
+    "Accounts": [
+      {
+        "Name": "Instagram",
+        "LogIn": "huseyn",
+        "Password": "1234",
+        "Category": "personal"
+      },
+      {
+        "Name": "Facebook",
+        "LogIn": "huseyn",
+        "Password": "12345",
+        "Category": "personal"
+      }
+    ]
+  }
+]

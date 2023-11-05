@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>PassKeeper_WPF</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Images\bluredPage.png" />
+    <None Remove="Resources\Images\DEFAULT USER PNG.png" />
+    <None Remove="Resources\Images\f771bf7104d2614f356b0ab7fb4b9ea6.png" />
+    <None Remove="Resources\Images\passkeeper main logo.png" />
+    <None Remove="Resources\Images\search.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\Images\DEFAULT USER PNG.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\f771bf7104d2614f356b0ab7fb4b9ea6.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\search.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignColors" Version="2.1.4" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Images\bluredPage.png" />
+    <Resource Include="Resources\Images\passkeeper main logo.png" />
+  </ItemGroup>
+
+</Project>

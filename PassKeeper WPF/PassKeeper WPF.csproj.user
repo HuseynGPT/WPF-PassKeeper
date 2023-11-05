@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\Pages\CreateNewPassPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\DonePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\ForgotPassActiveCode.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\ForgotPasswordPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\LandingAddPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\LandingEditPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\LandingPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\LandingProfile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\RegisterPasswordPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\RegsiterPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\SignInANDRegisterPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Pages\SignInPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Windows\MainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Resources\Styles\myStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\CreateNewPassPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\DonePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\ForgotPassActiveCode.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\ForgotPasswordPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\LandingAddPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\LandingEditPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\LandingPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\LandingProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\RegisterPasswordPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\RegsiterPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\SignInANDRegisterPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Pages\SignInPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Windows\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassKeeper WPF", "PassKeeper WPF\PassKeeper WPF.csproj", "{73BAD96B-BE04-4C47-BE0C-C9C5339FF055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BAD96B-BE04-4C47-BE0C-C9C5339FF055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BAD96B-BE04-4C47-BE0C-C9C5339FF055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BAD96B-BE04-4C47-BE0C-C9C5339FF055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BAD96B-BE04-4C47-BE0C-C9C5339FF055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A163D5B1-1BEB-4749-A48F-1B7DF37E9E49}
+	EndGlobalSection
+EndGlobal

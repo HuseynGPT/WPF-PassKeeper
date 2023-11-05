@@ -1,0 +1,20 @@
+﻿PassKeeper WPF
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\
+PassKeeper_WPF
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\App.xaml
+14947585580
+3462145228
+21-1112090816
+197-1901570328
+Resources\Styles\myStyles.xaml;Views\Pages\CreateNewPassPage.xaml;Views\Pages\DonePage.xaml;Views\Pages\ForgotPassActiveCode.xaml;Views\Pages\ForgotPasswordPage.xaml;Views\Pages\LandingAddPage.xaml;Views\Pages\LandingEditPage.xaml;Views\Pages\LandingPage.xaml;Views\Pages\LandingProfile.xaml;Views\Pages\RegisterPasswordPage.xaml;Views\Pages\RegsiterPage.xaml;Views\Pages\SignInANDRegisterPage.xaml;Views\Pages\SignInPage.xaml;Views\Windows\MainWindow.xaml;
+
+True
+

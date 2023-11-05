@@ -1,0 +1,55 @@
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\bin\Debug\net6.0-windows\PassKeeper WPF.exe
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\bin\Debug\net6.0-windows\PassKeeper WPF.deps.json
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\bin\Debug\net6.0-windows\PassKeeper WPF.runtimeconfig.json
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\bin\Debug\net6.0-windows\PassKeeper WPF.dll
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\bin\Debug\net6.0-windows\PassKeeper WPF.pdb
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF_MarkupCompile.cache
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF_MarkupCompile.lref
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\App.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF.g.resources
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF.csproj.CopyComplete
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF.dll
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\refint\PassKeeper WPF.dll
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF.pdb
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\ref\PassKeeper WPF.dll
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\SignInPage.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\SignInANDRegisterPage.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\SignInANDRegisterPage.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\SignInPage.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\ForgotPasswordPage.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\ForgotPasswordPage.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\CreateNewPassPage.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\DonePage.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\ForgotPassActiveCode.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\CreateNewPassPage.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\DonePage.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\ForgotPassActiveCode.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\RegisterPasswordPage.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\RegsiterPage.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\RegisterPasswordPage.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\RegsiterPage.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Resources\Styles\myStyles.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\bin\Debug\net6.0-windows\Resources\Images\f771bf7104d2614f356b0ab7fb4b9ea6.png
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\bin\Debug\net6.0-windows\Resources\Images\search.png
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\LandingPage.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\PassKeeper WPF_Content.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\LandingPage.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\LandingAddPage.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\LandingAddPage.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\LandingEditPage.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\LandingProfile.g.cs
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\LandingEditPage.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\obj\Debug\net6.0-windows\Views\Pages\LandingProfile.baml
+C:\Users\Administrator\source\repos\PassKeeper WPF\PassKeeper WPF\bin\Debug\net6.0-windows\Resources\Images\DEFAULT USER PNG.png
